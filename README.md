@@ -1,4 +1,5 @@
 # unb-webring
+<img alt="unb-webring icon" src="assets/favicon.svg" width="220" />
 A webring for students and alumni at the University of New Brunswick.
 
 ## Credits
