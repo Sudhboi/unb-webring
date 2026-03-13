@@ -26,7 +26,7 @@
     </text>
   </defs>
 
-  <g transform="translate(-70, 60) scale(1.02)">
+  <g transform="translate(-210, 20) scale(1.2)">
     <use href="#asciiMark" fill="#7d1013" opacity="0.48" x="6" y="6"/>
     <use href="#asciiMark" fill="#b01217"/>
   </g>
