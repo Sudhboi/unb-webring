@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1248" height="1248" viewBox="-220 -220 1688 1688" role="img" aria-label="UNB ASCII white icon" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="none"/>
+
+  <defs>
+    <text id="asciiMark" font-family="'Space Mono', ui-monospace, 'Courier New', monospace" font-size="56" xml:space="preserve" dominant-baseline="text-before-edge">
+      <tspan x="24" y="16">                  I]I                   </tspan>
+      <tspan x="24" dy="56">                  _JBhv-`               </tspan>
+      <tspan x="24" dy="56">                   jbBBBoX{,            </tspan>
+      <tspan x="24" dy="56">                   ~JBBBBmYpQ}.         </tspan>
+      <tspan x="24" dy="56">                   .Y&amp;BBBm-\Q&amp;*\'       </tspan>
+      <tspan x="24" dy="56">                    X*BBBp&lt;.}JM%p?      </tspan>
+      <tspan x="24" dy="56">                    X#BBBq&lt;  |JW8o|.    </tspan>
+      <tspan x="24" dy="56">                   ^Y8%%%LI  `zq88h1    </tspan>
+      <tspan x="24" dy="56">                   ]m888Wf.   \C&amp;&amp;&amp;Ll   </tspan>
+      <tspan x="24" dy="56">                  &quot;XM&amp;&amp;&amp;0i    }JW&amp;Wh?   </tspan>
+      <tspan x="24" dy="56">                 `th&amp;WWh)     \CMWW#{   </tspan>
+      <tspan x="24" dy="56">                &quot;fbWWWaf.    .cmWWW#{   </tspan>
+      <tspan x="24" dy="56">              .izaWWWh}      -YaWWWb_   </tspan>
+      <tspan x="24" dy="56">             :tq#WWMz:      ;cwMMMMCl   </tspan>
+      <tspan x="24" dy="56">           Ifw*MMbn_&lt;-[{{{]]vwMMMMh|    </tspan>
+      <tspan x="24" dy="56">        `-zk#o0x+&apos; ^;I!&lt;_[/vO*MMM*v&quot;    </tspan>
+      <tspan x="24" dy="56">     ^+nwqY(i.               &quot;\p*C;     </tspan>
+      <tspan x="24" dy="56">  &apos;&lt;nJn{;                      i],      </tspan>
+      <tspan x="24" dy="56">  .,;.                                  </tspan>
+    </text>
+  </defs>
+
+  <g transform="translate(-200, -10) scale(1.2)">
+    <use href="#asciiMark" fill="#000000" opacity="0.45" x="5" y="5"/>
+    <use href="#asciiMark" fill="#ffffff"/>
+  </g>
+</svg>
