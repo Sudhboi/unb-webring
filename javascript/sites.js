@@ -16,5 +16,11 @@ export const sites = [
     campus: "F",
     year: "2026",
     website: "https://github.com"
+  },
+  {
+    name: "Sudhir Krisna",
+    campus: "F",
+    year: "2025",
+    website: "https://sudhirkrisna.com"
   }
 ];
